@@ -1,2 +1,12 @@
-# sistema-pizzaria-
-Sistema em Python para simular pedidos de uma pizzaria, com cálculo automático de valores e troco.
+# 🍕 Sistema de Pedidos - Ponto 99
+
+Sistema em Python para simular pedidos de uma pizzaria.
+
+## 🚀 Funcionalidades
+- Cadastro de pedidos
+- Cálculo automático de valores
+- Cálculo de troco
+
+## ▶️ Como executar
+```bash
+python sistema_pizzaria.py
